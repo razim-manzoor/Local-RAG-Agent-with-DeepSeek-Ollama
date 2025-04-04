@@ -1,0 +1,14 @@
+# Core dependencies for LangChain, Ollama, and FAISS
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+ollama
+faiss-cpu
+pypdf
+
+streamlit
+
+# Optional
+python-dotenv     # For loading environment variables from .env
+beautifulsoup4    # add web scraping loaders later
